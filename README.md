@@ -1,3 +1,3 @@
 # ProjectDemo
 
-This Project for creating JAVA calculator application. 
+Terraform for creating Azure Infrasstructure-Vnet. 
